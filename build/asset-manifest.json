@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e3ef141.chunk.css",
+    "main.js": "/static/js/main.85693816.chunk.js",
+    "main.js.map": "/static/js/main.85693816.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c90964d3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c90964d3.js.map",
+    "static/js/2.1166b81d.chunk.js": "/static/js/2.1166b81d.chunk.js",
+    "static/js/2.1166b81d.chunk.js.map": "/static/js/2.1166b81d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dcaecc1d63bdbb753a921fd270e4b37b.js": "/precache-manifest.dcaecc1d63bdbb753a921fd270e4b37b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8e3ef141.chunk.css.map": "/static/css/main.8e3ef141.chunk.css.map",
+    "static/js/2.1166b81d.chunk.js.LICENSE.txt": "/static/js/2.1166b81d.chunk.js.LICENSE.txt",
+    "static/media/79455_pfp-removebg-preview.png": "/static/media/79455_pfp-removebg-preview.700c4d81.png",
+    "static/media/B9720747259Z-removebg-preview.png": "/static/media/B9720747259Z-removebg-preview.c588a531.png",
+    "static/media/Canyon.png": "/static/media/Canyon.f59d2a95.png",
+    "static/media/Logo-Red-Bull.jpg": "/static/media/Logo-Red-Bull.5ed2263b.jpg",
+    "static/media/aim.svg": "/static/media/aim.641e17d1.svg",
+    "static/media/circle-down_major_monotone.svg": "/static/media/circle-down_major_monotone.b6a9c839.svg",
+    "static/media/facebook.svg": "/static/media/facebook.a35a63b1.svg",
+    "static/media/fav.svg": "/static/media/fav.e98ec18e.svg",
+    "static/media/ffc.svg": "/static/media/ffc.077c471f.svg",
+    "static/media/footer.svg": "/static/media/footer.b0901431.svg",
+    "static/media/instagram.svg": "/static/media/instagram.80ca1b49.svg",
+    "static/media/interface(1).svg": "/static/media/interface(1).3412f4fe.svg",
+    "static/media/logo.svg": "/static/media/logo.e839dec6.svg",
+    "static/media/sram.png": "/static/media/sram.cfabf1d1.png",
+    "static/media/united.svg": "/static/media/united.2fb6fb31.svg",
+    "static/media/world.svg": "/static/media/world.b8546ec0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c90964d3.js",
+    "static/js/2.1166b81d.chunk.js",
+    "static/css/main.8e3ef141.chunk.css",
+    "static/js/main.85693816.chunk.js"
+  ]
+}
